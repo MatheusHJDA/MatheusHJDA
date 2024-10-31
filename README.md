@@ -6,7 +6,7 @@
 
 Meu nome é Matheus, sou estudante de Análise e desenvolvimento de sistemas, trabalho com Ti desde 2016, porém minha paixão por desenvolvimento deu inicio em 2019. Atualmente trabalho com projetos diversos, desde o back-end, à infraestrutura e também no front-end.
 
-<img height="15" alt="Bandeira dos EUA" src="https://camo.githubusercontent.com/6297fc71020473eb873e5b7c9ecf5dfc8c283d0e621d43f5829bb7a97ef1055c/68747470733a2f2f696d6167652e6672656570696b2e636f6d2f7665746f7265732d6772617469732f696c757374726163616f2d64652d62616e64656972612d6575615f35333837362d31383136352e6a7067" data-canonical-src="https://image.freepik.com/vetores-gratis/ilustracao-de-bandeira-eua_53876-18165.jpg" style="max-width: 100%;"> EN-US
+<img height="15" alt="Bandeira dos EUA" src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" style="max-width: 100%;"> EN-US
 
 My name is Matheus, I am a student of Systems Analysis and Development, I have been working with IT since 2016, but my passion for development started in 2019. I currently work on different projects, from the back-end, to the infrastructure and also on the front-end.
 
