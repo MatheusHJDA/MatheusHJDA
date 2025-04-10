@@ -23,7 +23,6 @@ Languages and Tools:
 ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![GIT](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Portainer](https://img.shields.io/badge/Portainer-13BEF9.svg?style=for-the-badge&logo=Portainer&logoColor=white)
+
 ### ✍️ Uma dose de motivação
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
