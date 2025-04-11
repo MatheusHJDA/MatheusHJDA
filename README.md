@@ -24,12 +24,9 @@ Languages and Tools:
 ![GIT](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Portainer](https://img.shields.io/badge/Portainer-13BEF9.svg?style=for-the-badge&logo=Portainer&logoColor=white)
 
-### ✍️ Uma dose de motivação
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusHJDA/MatheusHJDA/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusHJDA/MatheusHJDA/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusHJDA/MatheusHJDA/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MatheusHJDA/MatheusHJDA/output/pacman-contribution-graph.svg">
 </picture>
 
