@@ -30,4 +30,5 @@ Languages and Tools:
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MatheusHJDA/MatheusHJDA/output/pacman-contribution-graph.svg">
 </picture>
 
-![MatheusHJDA's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusHJDA&theme=default&show_icons=true&hide_border=false&layout=compact)
+###
+
