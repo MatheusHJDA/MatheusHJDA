@@ -24,14 +24,10 @@ Languages and Tools:
 ![GIT](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Portainer](https://img.shields.io/badge/Portainer-13BEF9.svg?style=for-the-badge&logo=Portainer&logoColor=white)
 
-![MatheusHJDA's Stats](https://github-readme-stats.vercel.app/api?username=MatheusHJDA&theme=default&show_icons=true&hide_border=false&count_private=true)
-![MatheusHJDA's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MatheusHJDA&theme=default&hide_border=false)
-![MatheusHJDA's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusHJDA&theme=default&show_icons=true&hide_border=false&layout=compact)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusHJDA/MatheusHJDA/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusHJDA/MatheusHJDA/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MatheusHJDA/MatheusHJDA/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+![MatheusHJDA's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusHJDA&theme=default&show_icons=true&hide_border=false&layout=compact)
